@@ -1,0 +1,4 @@
+vars.env
+*.sum
+refreshToken.txt
+.vscode/*
